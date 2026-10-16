@@ -1,0 +1,6 @@
+{
+  "description_zh": "离线统计本机 Codex 用量和用户明确提供的实际 AI 付款，支持原币分类与项目汇总；不是官方账单。",
+  "description_en": "codex-usage-ledger portable workflow; see README for dependencies and verified scope.",
+  "version": "0.2.0",
+  "author": "Arayx-bot"
+}
